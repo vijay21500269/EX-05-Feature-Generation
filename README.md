@@ -98,29 +98,29 @@ df4
 
 # OUPUT:
 ## Given DataFrame
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.1.png)
 ## Feature encoding using Ordinal Encoder
-![img]()
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.2.png)
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.3.png)
 # Feature encoding using Binary Encoder
-![img]()
-![img]()
-![img]()
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.4.png)
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.5.png)
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.6.png)
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.7.png)
 # Feature encoding using One Hot Encoder
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.8.png)
 # Feature encoding using Target Encoder
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.9.png)
 # Feature encoding using Label Encoder
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.10.png)
 # Feature scaling using Standard Scaler
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.11.png)
 # Feature scaling using MaxAbs Scaler
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.12.png)
 # Feature scaling using MinMax Scaler
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.13.png)
 # Feature scaling using Robust Scaler
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.14.png)
 # 2.FEATURE GENERATION FOR Encoding.csv
 # CODE FOR FEATURE ENCODING AND FEATURE SCALING:
 ~~~
@@ -167,25 +167,25 @@ df4
 ~~~
 # OUTPUT:
 ## Given DataFrame
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.15.png)
 ## Feature encoding using Ordinal Encoder
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.16.png)
 ## Feature encoding using Binary Encoder
-![img]()
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.17.png)
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.18.png)
 ## Feature encoding using One Hot Encoder
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.19.png)
 ## Feature encoding using Label Encoder
-![img]()
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.20.png)
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.21.png)
 ## Feature scaling using Standard Scaler
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.22.png)
 ## Feature scaling using MinMax Scaler
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.23.png)
 ## Feature scaling using MaxAbs Scaler
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.24.png)
 ## Feature scaling using Robust Scaler
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.25.png)
 # 3.FEATURE GENERATION FOR titanic_dataset.csv
 # CODE FOR FEATURE ENCODING AND FEATURE SCALING:
 ~~~
@@ -233,24 +233,24 @@ df4
 ~~~
 # OUTPUT:
 ## Given DataFrame
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.26.png)
 ## Resolving null value data
-![img]()
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.27.png)
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.28.png)
 ## Dropping unnecessary columns
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.29.png)
 ## Feature encoding using Ordinal Encoder
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.30.png)
 ## Feature encoding using Binary Encoder
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.31.png)
 ## Feature scaling using Standard Scaler
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.32.png)
 ## Feature scaling using MinMax Scaler
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.33.png)
 ## Feature scaling using MaxAbs Scaler
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.34.png)
 ## Feature scaling using Robust Scaler
-![img]()
+![img](https://github.com/vijay21500269/EX-05-Feature-Generation/blob/main/ds.35.png)
 # RESULT:
 Feature Encoding process and Feature Scaling process is applied to the given data frame sucessfully.
 
